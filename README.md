@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Setting up the Project
 
 First you'll need [Node.js](https://nodejs.org) and the package manager
@@ -28,6 +29,5 @@ You should see a "Hello React Router" message in the browser.
 Open up `modules/App.js` and change the text to something like "Hello
 <your name>". The browser automatically reloads with your new code.
 
----
 
 [Next: Rendering a Router](../02-rendering-a-route/)
