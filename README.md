@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Setting up the Project
 
 First you'll need [Node.js](https://nodejs.org) and the package manager
