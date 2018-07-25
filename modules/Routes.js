@@ -1,8 +1,8 @@
 import React from 'react';
-import {Router, Route, hashHistory} from 'react-router';
 import Home from './Home';
 import About from './About';
 import NotFound from './NotFound';
+import {Router, Route, hashHistory} from 'react-router';
 
 export default React.createClass({
     render() {
